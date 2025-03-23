@@ -17,6 +17,7 @@
     <br/>
     <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -28,9 +29,9 @@
     
   </p>
     <h3>Musica en el trabajo ☕</h3>
-    
+
 ![Spotify](https://img.shields.io/badge/Powered%20by-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
-  <div>
+  <div align="center">
     <div>
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR1OHZpcGxydmVqMWxybnpydWlldDZuZzU4Y3BvbGVoNDZxbndzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cgW5iwX0e37qg/giphy.gif"/>
      </div>
