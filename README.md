@@ -1,6 +1,7 @@
 # Hola a todos 😎
 
 <img src="banner.png" />
+
 <p>Con lo que trabajo</p>
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -26,3 +27,35 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     
   </p>
+    <h3>Musica en el trabajo ☕</h3>
+    
+![Spotify](https://img.shields.io/badge/Powered%20by-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
+  <div>
+    <div>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR1OHZpcGxydmVqMWxybnpydWlldDZuZzU4Y3BvbGVoNDZxbndzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cgW5iwX0e37qg/giphy.gif"/>
+     </div>
+  <table>
+    <thead align="center">
+        <tr>
+        <td><b>🎧 Song</b></td>
+        <td><b>⭐ Artist</b></td>
+        </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://open.spotify.com/intl-es/track/1jjyCbLgWK0L33gwJJhBlH?si=5fc862439ebb40f5"><b>De lunes a domingo sabor a tus recuerdos</b></a></td>
+      <td><b>OwskyDowsky</b></td>
+    </tr>
+	  <tr>
+      <td><a href="https://open.spotify.com/intl-es/track/0bkjYsOt7EDEjW1SdUsVx6?si=85a393022d464b4b"><b>My 45</b></a></td>
+      <td><b>Cuco</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://open.spotify.com/intl-es/track/6jlG8gBPNAgBgoivw2Ig09?si=cf4e76abf34d48d9"><b>Devil is a lie</b></a></td>
+      <td><b>Tommy Richman</b></td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+  
+  </div>
